@@ -5,11 +5,12 @@
 h1 {
 	font-family: 'Oxygen', sans-serif;
 	color: black;
-	font-style: italic;
+	
 }
 
 body {
 	background-color: #fff;
+	font-style: italic;
 }
 
 
